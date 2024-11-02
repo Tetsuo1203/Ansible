@@ -1,0 +1,11 @@
+[master]
+#10.15.20.1
+
+[hosts]
+10.15.20.3 #mqtt-prod
+10.15.20.4
+10.15.20.5 #unifi
+#10.15.20.6 #grafana
+10.15.20.7 #influxdb-prod
+10.15.20.8 #homepage
+
